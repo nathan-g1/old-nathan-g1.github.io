@@ -1,0 +1,4 @@
+baseURL = 'https://nathan-g1.github.io'
+languageCode = 'en-us'
+title = 'nathan'
+theme = "hugo-theme-console"
