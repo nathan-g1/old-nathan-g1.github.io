@@ -1,3 +1,7 @@
 [submodule "themes/hugo-theme-console"]
   path = themes/hugo-theme-console
   url = https://github.com/mrmierzejewski/hugo-theme-console
+[submodule "themes/kayal"]
+	path = themes/kayal
+	url = https://github.com/mnjm/kayal.git
+	branch = main
