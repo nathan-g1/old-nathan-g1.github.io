@@ -48,9 +48,9 @@ showMore = true
 showMoreDest = "/posts"
 [homepage.profile]
 # [Optional] Displayed at the top of your homepage.
-# headline = "👋 Welcome to my site"
+headline = "👋 Welcome to my website"
 # [Optional] Path to the profile image relative to assets/ folder. Minimum size: 200x200px.
-# image = "imgs/profile.svg"
+image = "images/nathan.lechamo.png"
 # Image position.
 where = "right"  # Options: right, left, top
 
